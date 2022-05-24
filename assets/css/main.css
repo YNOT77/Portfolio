@@ -1583,6 +1583,10 @@ section.special, article.special {
   text-align: center;
 }
 
+p.story {
+  text-indent: 3em;
+}
+
 header p {
   color: #b2b2b2;
   position: relative;
