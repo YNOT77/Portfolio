@@ -1076,7 +1076,7 @@ $size-header-pad: 4em;
 		@include vendor('flex-direction', 'column');
 		@include vendor('align-items', 'flex-end');
 		@include vendor('justify-content', 'space-between');
-		background-color:		_palette(accent2, bg);
+		background-color:		#0e1215;
 		background-attachment:	scroll,								scroll;
 		background-image:		url('images/overlay.png'),			url('../../images/bg3.jpg');
 		background-position:	top left,							top left;
